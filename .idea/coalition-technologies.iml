@@ -124,6 +124,8 @@
       <excludeFolder url="file://$MODULE_DIR$/task-manager/vendor/laravel/prompts" />
       <excludeFolder url="file://$MODULE_DIR$/task-manager/vendor/laravel/sail" />
       <excludeFolder url="file://$MODULE_DIR$/task-manager/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/task-manager/vendor/barryvdh/laravel-ide-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/task-manager/vendor/barryvdh/reflection-docblock" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -127,6 +127,8 @@
       <path value="$PROJECT_DIR$/task-manager/vendor/laravel/prompts" />
       <path value="$PROJECT_DIR$/task-manager/vendor/laravel/sail" />
       <path value="$PROJECT_DIR$/task-manager/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/task-manager/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/task-manager/vendor/barryvdh/reflection-docblock" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
